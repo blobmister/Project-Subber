@@ -1,6 +1,6 @@
 # Initial code testing for pump
 
-Both files run infinite loops. To exit loop use ``ctrl+C``. **Do not use ``ctrl+Z``.
+Both files run infinite loops. To exit loop use ``ctrl+C``. **Do not use ``ctrl+Z``**.
 
 ## pump-test.py
 
